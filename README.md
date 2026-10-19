@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Rômulo Silva
+# 👋 Olá, eu sou o Rômulo Silva.
 
 Gerente de Dados | Data & Analytics | Databricks | Azure | Data Engineering
 
