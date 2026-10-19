@@ -1,12 +1,18 @@
 # 👋 Olá, eu sou o Rômulo Silva.
 
-Gerente de Dados | Data & Analytics | Databricks | Azure | Data Engineering
+### Data & Analytics Manager | Data Platform Architect | Databricks Data Engineer Professional
 
-Sou apaixonado por transformar dados em decisões.
+Transformando dados em ativos estratégicos através de plataformas modernas, arquitetura escalável e liderança de equipes de alta performance.
 
-Atualmente atuo liderando times de engenharia de dados e analytics,
-desenhando plataformas modernas de dados em Azure e Databricks,
-com foco em escalabilidade, governança e geração de valor para o negócio.
+---
+
+## 🚀 Sobre Mim
+
+Atuo na área de Tecnologia desde 2008, acumulando experiência em Desenvolvimento de Software, Análise de Sistemas, Business Intelligence, Data Warehouse, Arquitetura de Dados, Engenharia de Dados e Gestão de Equipes. Ao longo da carreira tive a oportunidade de atuar em projetos para os segmentos de Telecomunicações, Saúde, Bancário, Logística e Gestão de Rompimento de Barragens. 【1-58aeb6】
+
+Atualmente exerço funções de liderança em iniciativas de Dados e Analytics, apoiando organizações na construção de plataformas modernas de dados utilizando arquiteturas Lakehouse, Cloud Computing e Governança de Dados.
+
+Meu foco é conectar estratégia de negócio, arquitetura de dados e engenharia para construir soluções escaláveis, confiáveis e orientadas à geração de valor.
 
 ---
 
