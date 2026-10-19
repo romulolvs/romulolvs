@@ -45,6 +45,6 @@ com foco em escalabilidade, governança e geração de valor para o negócio.
 
 ---
 
-## 🌎 Vamos conectar
+## 🌎 Vamos conectar?
 
 [LinkedIn](https://linkedin.com/in/romulolvs)
