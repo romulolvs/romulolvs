@@ -8,7 +8,7 @@ Transformando dados em ativos estratégicos através de plataformas modernas, ar
 
 ## 🚀 Sobre Mim
 
-Atuo na área de Tecnologia desde 2008, acumulando experiência em Desenvolvimento de Software, Análise de Sistemas, Business Intelligence, Data Warehouse, Arquitetura de Dados, Engenharia de Dados e Gestão de Equipes. Ao longo da carreira tive a oportunidade de atuar em projetos para os segmentos de Telecomunicações, Saúde, Bancário, Logística e Gestão de Rompimento de Barragens. 【1-58aeb6】
+Atuo na área de Tecnologia desde 2008, acumulando experiência em Desenvolvimento de Software, Análise de Sistemas, Business Intelligence, Data Warehouse, Arquitetura de Dados, Engenharia de Dados e Gestão de Equipes. Ao longo da carreira tive a oportunidade de atuar em projetos para os segmentos de Telecomunicações, Saúde, Bancário, Logística e Gestão de Rompimento de Barragens.
 
 Atualmente exerço funções de liderança em iniciativas de Dados e Analytics, apoiando organizações na construção de plataformas modernas de dados utilizando arquiteturas Lakehouse, Cloud Computing e Governança de Dados.
 
@@ -16,41 +16,150 @@ Meu foco é conectar estratégia de negócio, arquitetura de dados e engenharia 
 
 ---
 
-## 🚀 Principais Competências
+## 🎯 Áreas de Atuação
 
-- Databricks
-- Apache Spark
-- Azure Data Platform
-- Data Lakehouse
-- Data Architecture
+- Data & Analytics Leadership
+- Data Platform Architecture
+- Data Engineering
 - Data Governance
-- SQL
-- Python
-- Machine Learning
-- Generative AI
+- Lakehouse Architecture
+- Cloud Data Platforms
+- Business Intelligence
+- Analytics Modernization
+- Data Strategy
+- Artificial Intelligence & Generative AI
+
+---
+
+## 🏗️ Principais Tecnologias
+
+### Data Platform
+
+https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white
+https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white
+https://img.shields.io/badge/Delta_Lake-00A3E0?style=for-the-badge
+https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white
+
+### Cloud
+
+https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
+https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
+https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white
+https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white
+
+### Data Engineering
+
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/SQL-4479A1?style=for-the-badge
+https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge
+https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white
+
+### Analytics
+
+https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
+https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white
 
 ---
 
 ## 🏆 Certificações
 
-- Databricks Certified Data Engineer Professional
-- Databricks Certified Data Engineer Associate
-- Microsoft Azure Fundamentals
-- Microsoft Azure Data Fundamentals
+### Databricks
+
+✅ Databricks Certified Data Engineer Professional  
+✅ Databricks Certified Data Engineer Associate
+
+### Microsoft
+
+✅ Azure Data Engineer Associate  
+✅ Azure Database Administrator Associate  
+✅ Power BI Data Analyst Associate  
+✅ Azure Fundamentals  
+✅ Azure Data Fundamentals  
+✅ Azure AI Fundamentals  
+✅ Power Platform Fundamentals
+
+### AWS
+
+✅ AWS Certified Data Analytics – Specialty  
+✅ AWS Certified Cloud Practitioner
+
+### Oracle
+
+✅ Oracle Cloud Infrastructure Foundations  
+✅ Oracle Cloud Data Management Foundations
 
 ---
 
-## 📊 Atualmente trabalhando com
+## 📈 Destaques Profissionais
 
-- Data Platform Modernization
-- Lakehouse Architecture
-- Data Quality Frameworks
-- Medallion Architecture
-- Databricks Asset Bundles
-- CI/CD para Analytics
+✔️ Mais de 15 anos de experiência em Dados e Analytics
+
+✔️ Liderança de times de Engenharia e Arquitetura de Dados
+
+✔️ Arquitetura de plataformas Lakehouse em Databricks
+
+✔️ Implementação de Data Governance baseada nas práticas DAMA
+
+✔️ Construção de pipelines ponta a ponta em ambientes Cloud
+
+✔️ Modelagem dimensional utilizando metodologia Kimball
+
+✔️ Experiência Multi-Cloud (Azure, AWS, Oracle e GCP)
+
+✔️ Forte atuação na conexão entre áreas de negócio e tecnologia
 
 ---
 
-## 🌎 Vamos conectar?
+## 🔭 Atualmente Estudando e Explorando
 
-[LinkedIn](https://linkedin.com/in/romulolvs)
+- Generative AI
+- AI Agents
+- Data Products
+- Data Mesh
+- Lakehouse Federation
+- Data Quality & Observability
+- FinOps para Plataformas de Dados
+- MLOps e LLMOps
+
+---
+
+## 🌎 Experiência em Segmentos de Negócio
+
+- Telecomunicações
+- Bancário
+- Saúde
+- Logística
+- Varejo
+- Utilities
+- Gestão de Rompimento de Barragens
+
+---
+
+## 📚 Formação e Desenvolvimento
+
+🎓 Formação Arquiteto de Dados – Data Science Academy
+
+🎓 Introducción al uso práctico de datos masivos – Coursera
+
+---
+
+## 📊 Estatísticas GitHub
+
+https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight
+
+---
+
+## 🤝 Vamos nos conectar
+
+💼 LinkedIn: https://linkedin.com/in/romulolvs
+
+🏅 Credly: https://www.credly.com/users/romulolvs/badges
+
+☁️ Databricks Certifications:
+https://credentials.databricks.com/profile/romulolvs2
+
+---
+
+> "Dados por si só não geram valor. Valor nasce quando transformamos dados em decisões, automação e vantagem competitiva."
