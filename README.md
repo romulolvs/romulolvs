@@ -31,36 +31,6 @@ Meu foco é conectar estratégia de negócio, arquitetura de dados e engenharia 
 
 ---
 
-## 🏗️ Principais Tecnologias
-
-### Data Platform
-
-https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white
-https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white
-https://img.shields.io/badge/Delta_Lake-00A3E0?style=for-the-badge
-https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white
-
-### Cloud
-
-https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
-https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
-https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white
-https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white
-
-### Data Engineering
-
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/SQL-4479A1?style=for-the-badge
-https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge
-https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white
-
-### Analytics
-
-https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white
-
----
-
 ## 🏆 Certificações
 
 ### Databricks
@@ -135,30 +105,9 @@ https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&log
 
 ---
 
-## 📚 Formação e Desenvolvimento
-
-🎓 Formação Arquiteto de Dados – Data Science Academy
-
-🎓 Introducción al uso práctico de datos masivos – Coursera
-
----
-
-## 📊 Estatísticas GitHub
-
-https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight
-
----
-
-## 🤝 Vamos nos conectar
+## 🌎 Vamos conectar?
 
 💼 LinkedIn: https://linkedin.com/in/romulolvs
-
-🏅 Credly: https://www.credly.com/users/romulolvs/badges
-
-☁️ Databricks Certifications:
-https://credentials.databricks.com/profile/romulolvs2
 
 ---
 
